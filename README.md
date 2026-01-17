@@ -84,6 +84,10 @@ Granular Requirements:
 -	Focus inventory & promotions on high-performing categories (Fruits, Snacks, Household).
 
 -	Improve visibility and bundling of low-performing items.
+
+  Dashboard Screenshot :
+
+  ![Dashboard Preview](https://github.com/276vaibhav/Blinkit-Analysis-PowerBI-project/blob/main/Blinkit%20Screenshot.png)
                 
 Summary :
 
